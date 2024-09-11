@@ -1,0 +1,10 @@
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
