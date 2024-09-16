@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\UNIP-Sala-de-Aula-\\POO2 - Quarta\\Sistema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E6552A-73EB-4463-B010-401129F417AF}|Sistema\\Sistema.csproj|c:\\users\\rafae\\onedrive\\documentos\\github\\unip-sala-de-aula-\\poo2 - quarta\\sistema\\sistema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7E6552A-73EB-4463-B010-401129F417AF}|Sistema\\Sistema.csproj|solutionrelative:sistema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E6552A-73EB-4463-B010-401129F417AF}|Sistema\\Sistema.csproj|c:\\users\\rafae\\onedrive\\documentos\\github\\unip-sala-de-aula-\\poo2 - quarta\\sistema\\sistema\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7E6552A-73EB-4463-B010-401129F417AF}|Sistema\\Sistema.csproj|solutionrelative:sistema\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E6552A-73EB-4463-B010-401129F417AF}|Sistema\\Sistema.csproj|c:\\users\\rafae\\onedrive\\documentos\\github\\unip-sala-de-aula-\\poo2 - quarta\\sistema\\sistema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E6552A-73EB-4463-B010-401129F417AF}|Sistema\\Sistema.csproj|solutionrelative:sistema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E6552A-73EB-4463-B010-401129F417AF}|Sistema\\Sistema.csproj|c:\\users\\rafae\\onedrive\\documentos\\github\\unip-sala-de-aula-\\poo2 - quarta\\sistema\\sistema\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7E6552A-73EB-4463-B010-401129F417AF}|Sistema\\Sistema.csproj|solutionrelative:sistema\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\UNIP-Sala-de-Aula-\\POO2 - Quarta\\Sistema\\Sistema\\Form1.cs",
+              "RelativeDocumentMoniker": "Sistema\\Form1.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\UNIP-Sala-de-Aula-\\POO2 - Quarta\\Sistema\\Sistema\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Sistema\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:20:43.391Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\UNIP-Sala-de-Aula-\\POO2 - Quarta\\Sistema\\Sistema\\Form1.cs",
+              "RelativeDocumentMoniker": "Sistema\\Form1.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\UNIP-Sala-de-Aula-\\POO2 - Quarta\\Sistema\\Sistema\\Form1.cs",
+              "RelativeToolTip": "Sistema\\Form1.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAtwCoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:22:52.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\UNIP-Sala-de-Aula-\\POO2 - Quarta\\Sistema\\Sistema\\Form2.cs",
+              "RelativeDocumentMoniker": "Sistema\\Form2.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\UNIP-Sala-de-Aula-\\POO2 - Quarta\\Sistema\\Sistema\\Form2.cs [Projeto]",
+              "RelativeToolTip": "Sistema\\Form2.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:23:58.817Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\UNIP-Sala-de-Aula-\\POO2 - Quarta\\Sistema\\Sistema\\Form3.cs",
+              "RelativeDocumentMoniker": "Sistema\\Form3.cs",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\UNIP-Sala-de-Aula-\\POO2 - Quarta\\Sistema\\Sistema\\Form3.cs [Projeto]",
+              "RelativeToolTip": "Sistema\\Form3.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:28:46.121Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

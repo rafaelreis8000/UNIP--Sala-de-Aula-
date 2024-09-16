@@ -1,0 +1,7 @@
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Lista\Lista\bin\Debug\Lista.exe.config
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Lista\Lista\bin\Debug\Lista.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Lista\Lista\bin\Debug\Lista.pdb
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Lista\Lista\obj\Debug\Lista.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Lista\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Lista\Lista\obj\Debug\Lista.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Lista\Lista\obj\Debug\Lista.pdb
