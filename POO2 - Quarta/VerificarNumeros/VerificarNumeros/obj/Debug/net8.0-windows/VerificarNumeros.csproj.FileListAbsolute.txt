@@ -1,0 +1,17 @@
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\VerificarNumeros\VerificarNumeros\bin\Debug\net8.0-windows\VerificarNumeros.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\VerificarNumeros\VerificarNumeros\bin\Debug\net8.0-windows\VerificarNumeros.deps.json
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\VerificarNumeros\VerificarNumeros\bin\Debug\net8.0-windows\VerificarNumeros.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\VerificarNumeros\VerificarNumeros\bin\Debug\net8.0-windows\VerificarNumeros.dll
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\VerificarNumeros\VerificarNumeros\bin\Debug\net8.0-windows\VerificarNumeros.pdb
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\VerificarNumeros\VerificarNumeros\obj\Debug\net8.0-windows\VerificarNumeros.FrmVerifica.resources
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\VerificarNumeros\VerificarNumeros\obj\Debug\net8.0-windows\VerificarNumeros.csproj.GenerateResource.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\VerificarNumeros\VerificarNumeros\obj\Debug\net8.0-windows\VerificarNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\VerificarNumeros\VerificarNumeros\obj\Debug\net8.0-windows\VerificarNumeros.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\VerificarNumeros\VerificarNumeros\obj\Debug\net8.0-windows\VerificarNumeros.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\VerificarNumeros\VerificarNumeros\obj\Debug\net8.0-windows\VerificarNumeros.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\VerificarNumeros\VerificarNumeros\obj\Debug\net8.0-windows\VerificarNumeros.sourcelink.json
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\VerificarNumeros\VerificarNumeros\obj\Debug\net8.0-windows\VerificarNumeros.dll
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\VerificarNumeros\VerificarNumeros\obj\Debug\net8.0-windows\refint\VerificarNumeros.dll
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\VerificarNumeros\VerificarNumeros\obj\Debug\net8.0-windows\VerificarNumeros.pdb
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\VerificarNumeros\VerificarNumeros\obj\Debug\net8.0-windows\VerificarNumeros.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\VerificarNumeros\VerificarNumeros\obj\Debug\net8.0-windows\ref\VerificarNumeros.dll

@@ -1,0 +1,7 @@
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Lista Generica While\Lista Generica While\bin\Debug\Lista Generica While.exe.config
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Lista Generica While\Lista Generica While\bin\Debug\Lista Generica While.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Lista Generica While\Lista Generica While\bin\Debug\Lista Generica While.pdb
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Lista Generica While\Lista Generica While\obj\Debug\Lista Generica While.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Lista Generica While\Lista Generica While\obj\Debug\Lista Generica While.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Lista Generica While\Lista Generica While\obj\Debug\Lista Generica While.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Lista Generica While\Lista Generica While\obj\Debug\Lista Generica While.pdb
