@@ -1,0 +1,7 @@
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Matriz\Matriz\bin\Debug\Matriz.exe.config
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Matriz\Matriz\bin\Debug\Matriz.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Matriz\Matriz\bin\Debug\Matriz.pdb
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Matriz\Matriz\obj\Debug\Matriz.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Matriz\Matriz\obj\Debug\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Matriz\Matriz\obj\Debug\Matriz.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\UNIP-Sala-de-Aula-\POO2 - Quarta\Matriz\Matriz\obj\Debug\Matriz.pdb
